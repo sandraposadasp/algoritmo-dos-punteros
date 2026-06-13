@@ -1,0 +1,1 @@
+const invitados = ["Ailyn", "Berenice", "Carolina", "Cesar", "Dessire", "Gabriel", "Gaby", "Isaac", "Marcos", "Miguel", "Yakelin"]
