@@ -11,3 +11,6 @@ function encontrarPareja(arr) {
         inicio++;
         siguiente++;
     }
+
+     return null;
+}
