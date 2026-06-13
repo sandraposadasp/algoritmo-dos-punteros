@@ -14,3 +14,5 @@ function encontrarPareja(arr) {
 
      return null;
 }
+
+console.log(encontrarPareja(invitados));
